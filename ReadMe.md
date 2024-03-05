@@ -6,9 +6,9 @@ The implementation is detailed in Phase1.ipynb and accompanied by a comprehensiv
 ### Results
 The information from the texture, color and brightness features is combined with a baseline method (based on Sobel or Canny edge detection or an average of both).
 <p align="center">
-  <img src="Assets\canny.png" alt="Image 1 Description" width="500"/>
-  <img src="Assets\sobel.png" alt="Image 2 Description" width="500"/>
-  <img src="Assets\canny.png" alt="Image 3 Description" width="500"/>
+  <img src="Assets\canny.png" alt="Image 1 Description" width="200"/>
+  <img src="Assets\sobel.png" alt="Image 2 Description" width="200"/>
+  <img src="Assets\canny.png" alt="Image 3 Description" width="200"/>
 </p>
 
 ### References
