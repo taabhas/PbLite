@@ -1,6 +1,6 @@
 # Probability-based Edge Detection
 
-This project showcases a simplified implementation of the Probability of Boundary (Pb) algorithm, a cutting-edge method that advances beyond traditional Canny and Sobel edge detection techniques. By incorporating texture and color discontinuities alongside intensity discontinuities, the Pb algorithm achieves superior edge detection accuracy.
+This project showcases a simplified implementation of the Probability of Boundary (Pb) algorithm that advances beyond traditional Canny and Sobel edge detection techniques. By incorporating texture and color discontinuities alongside intensity discontinuities, the Pb algorithm achieves superior edge detection accuracy.
 The implementation is detailed in Phase1.ipynb and accompanied by a comprehensive report that explains the methodology, tools, and libraries used.
 
 ### Results
